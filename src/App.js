@@ -7,6 +7,4 @@ export const App = () => {
       <Images />
     </div>
   );
-}
-
-export default App;
+};
