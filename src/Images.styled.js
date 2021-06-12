@@ -4,8 +4,10 @@ export const ImageGrid = styled.ul`
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-bottom: 20px;
   padding: 20px;
   list-style-type: none;
+  overflowY: scroll;
 
   @media only screen and (min-width: 768px) {
 		justify-content: start;
