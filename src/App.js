@@ -1,4 +1,3 @@
-import './App.css';
 import { Images } from './Images';
 
 export const App = () => {
